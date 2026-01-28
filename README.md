@@ -25,5 +25,5 @@ This project demonstrates core JavaScript concepts like DOM manipulation, event 
 
 ---
 
-## 📂 Project Structure
+
 
